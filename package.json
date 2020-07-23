@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-restfull",
+  "version": "1.0.0",
+  "description": "Cliente (Client)\r Garçom (pedidos, levar seus pedidos, para a cozinha) (API)\r Cozinha (Server)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rocketseat/youtube-api-rest-restful.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rocketseat/youtube-api-rest-restful/issues"
+  },
+  "homepage": "https://github.com/Rocketseat/youtube-api-rest-restful#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
